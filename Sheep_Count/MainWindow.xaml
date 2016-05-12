@@ -1,0 +1,9 @@
+﻿<Window x:Class="Sheep_Count.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:local="clr-namespace:Sheep_Count"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="720" Width="1280">
+    <Grid>
+        <local:HitsujiView></local:HitsujiView>
+    </Grid>
+</Window>
